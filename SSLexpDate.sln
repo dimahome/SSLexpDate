@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSLexpDate", "SSLexpDate\SSLexpDate.csproj", "{220BDA72-C222-41F2-B290-6B3458DAEFBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{220BDA72-C222-41F2-B290-6B3458DAEFBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{220BDA72-C222-41F2-B290-6B3458DAEFBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{220BDA72-C222-41F2-B290-6B3458DAEFBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{220BDA72-C222-41F2-B290-6B3458DAEFBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20E6DCD9-A9FD-45CE-BE7E-A894E85F5A2A}
+	EndGlobalSection
+EndGlobal
